@@ -15,8 +15,8 @@
    - **Uczestnikach** lub **Uczestniku**, należy przez to rozumieć, w zależnosci od kontekstu: osoby biorące udział w którejkolwiek z faz w Turnieju, osoby biorące udział w danym Meczu lub, w przypadku liczby pojedynczej: każdą pojedynczą osobę biorącą udział w którejkolwiek z faz w Turnieju lub osobę biorącą udział w Meczu,
    - **Meczu**, należy przez to rozumieć wszystkie rozgrywki w ramach Turnieju, między dwoma danymi Uczestnikami, w danej fazie Turnieju,
    - **Grze**, należy przez to rozumieć pojedynczą rozgrywkę w Meczu,
-   - **Stronie Turnieju**, należy przez to rozumieć stronę Turnieju na witrynie h3.gg [link](). //todo dodac link
-   - **Radamantysie**, należy przez to rozumieć system rankingowy oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg oraz Liga Heroes w okresie od 1 stycznia 2024 do 9 września 2024. Używa on wag dla szablonów, które można uzyskać od Organizatorów na wniosek. //todo uzupełnić daty
+   - **Stronie Turnieju**, należy przez to rozumieć stronę Turnieju na witrynie h3.gg [link](https://www.h3.gg/competitions/v2/103).
+   - **Radamantysie**, należy przez to rozumieć system rankingowy oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg oraz Liga Heroes w okresie od 1 stycznia 2024 do 9 września 2024. Używa on wag dla szablonów, które można uzyskać od Organizatorów na wniosek. 
 
 5. <a id="point-1-5"></a>Organizatorami Turnieju są:
 
@@ -39,7 +39,7 @@
 
 10. Organizatorzy zastrzegają sobie prawo do niedopuszczenia wybranej osoby do pełnienia funkcji komentatora lub hosta transmisji z Gry rozgrywanej w ramach Turnieju.
 
-11. Pula nagród zostanie opublikowana po rozpoczęciu fazy 1/8 fazy pucharowej.
+11. Pula nagród zostanie opublikowana po rozpoczęciu fazy 1/16 fazy pucharowej.
 
 ## 2. Format Turnieju
 
@@ -76,7 +76,7 @@
 
 3. Faza grupowa:
 
-   `1)` faza grupowa rozpocznie się 23 września 2024 i potrwa do 03.11,
+   `1)` faza grupowa rozpocznie się 23 września 2024 i potrwa do 16 listopada 2024,
 
    `1b)` w przypadku potrzeby przeprowadzenia dogrywek, czas trwania fazy może zostać przedłużony o tydzień,
 
@@ -84,7 +84,7 @@
 
    `3)` w fazie grupowej Uczestnicy zostaną podzieleni, w sposób losowy, na podstawie koszyków ustalonych na podstawie Radamantysa, na grupy, o w miarę możliwości równych rozmiarach,
 
-   `4)` średnia liczba Uczestników przydzielonych na grupę będzie wynosiła 8,
+   `4)` średnia liczba Uczestników przydzielonych na grupę będzie wynosiła 5,
 
    `5)` rozgrywki będą prowadzone w systemie każdy z każdym wewnątrz grup,
 
@@ -211,8 +211,8 @@
 3. Wybór szablonów:
 
    `1)` szablony obowiązujące w Turnieju:
-      - Sapphire,
-      - mt_Sapphire
+      - Sapphire 1.05b,
+      - mt_Sapphire 1.04c
 
    `2)` w przypadku Meczu Bo2, pierwszą Grę Uczestnicy rogrywaja na szablonie Sapphire, a drugą na mt_Sapphire,
 
@@ -372,4 +372,4 @@
 <br/>
 <hr>
 
-### Regulamin ostatni raz aktualizowany był dnia 1 września 2024
+### Regulamin ostatni raz aktualizowany był dnia 22 września 2024
