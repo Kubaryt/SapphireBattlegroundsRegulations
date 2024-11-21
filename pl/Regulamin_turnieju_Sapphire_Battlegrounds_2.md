@@ -211,7 +211,7 @@
 3. Wybór szablonów:
 
    `1)` szablony obowiązujące w Turnieju:
-      - Sapphire 1.05b,
+      - Sapphire 1.06b,
       - mt_Sapphire 1.04c
 
    `2)` w przypadku Meczu Bo2, pierwszą Grę Uczestnicy rogrywaja na szablonie Sapphire, a drugą na mt_Sapphire,
